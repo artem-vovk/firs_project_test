@@ -4,6 +4,6 @@ public class Main {
 
     public static void main(String[] args) {
 	// просто внесли изменение в файл
-        System.out.println("Hello");
+        System.out.println("Hello again ))");
     }
 }
